@@ -1,0 +1,5 @@
+DoneCheckParameters = "Au fost verificati parametrii..."
+DoneUnzipping = "Fisierul a fost dezarhivat..."
+DoneCompiling = "Fisierul sursa a fost compilat cu succes..."
+BeginningCheck = "Incepe verificarea temei studentului "
+GradeSubmitSuccess = "Grade submitted"
